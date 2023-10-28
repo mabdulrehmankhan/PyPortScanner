@@ -1,7 +1,3 @@
-Certainly! Here's a sample GitHub README for your PyPortScanner project:
-
----
-
 # PyPortScanner
 
 **Author**: Muhammad Abdul Rehman Khan
