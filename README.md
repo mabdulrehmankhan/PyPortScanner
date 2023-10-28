@@ -70,5 +70,3 @@ Scanning Port: 8080
 This project is licensed under the FREE LICENSE. You can use it for educational purpose ONLY.
 
 ---
-
-Feel free to customize this README with additional sections, images, or any other information you'd like to include.
