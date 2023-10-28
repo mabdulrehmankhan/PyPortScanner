@@ -1,6 +1,6 @@
 # PyPortScanner
 
-**Author**: Muhammad Abdul Rehman Khan
+**Author**: MUHAMMAD ABDUL REHMAN KHAN
 
 PyPortScanner is a simple Python-based network tool designed to help network administrators and security professionals perform port scanning on a target host. This tool allows users to scan a list of specified ports on a given target host and provides information about the status of each port (open or closed). It also displays well-known port descriptions for reference, making it a useful tool for identifying potential vulnerabilities and discovering services running on the target system.
 
@@ -15,7 +15,7 @@ PyPortScanner is a simple Python-based network tool designed to help network adm
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/PyPortScanner.git
+   git clone https://github.com/mabdulrehmankhan/PyPortScanner.git
    ```
 
 2. Change to the project directory:
@@ -54,6 +54,9 @@ Well-known ports and their descriptions:
 
 Enter the target host (e.g. google.com): google.com
 Enter the target ports (comma-separated) (e.g. 80, 20, 443): 80, 443, 8080
+
+[+] Scan Result for: google.com
+
 Scanning Port: 80
 [+] 80/TCP open
 Scanning Port: 443
@@ -64,7 +67,7 @@ Scanning Port: 8080
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the FREE LICENSE. You can use it for educational purpose ONLY.
 
 ---
 
